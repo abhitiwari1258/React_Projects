@@ -1,0 +1,21 @@
+.green{
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+
+.red{
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+
+.blue{
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+
